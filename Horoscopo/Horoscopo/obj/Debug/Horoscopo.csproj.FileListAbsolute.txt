@@ -1,0 +1,8 @@
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\bin\Debug\Horoscopo.exe.config
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\bin\Debug\Horoscopo.exe
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\bin\Debug\Horoscopo.pdb
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\obj\Debug\Horoscopo.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\obj\Debug\Horoscopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\obj\Debug\Horoscopo.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\obj\Debug\Horoscopo.exe
+C:\Users\Giovanni\source\repos\Horoscopo\Horoscopo\obj\Debug\Horoscopo.pdb
